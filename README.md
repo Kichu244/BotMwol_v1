@@ -1,72 +1,98 @@
 <div align="center">
 
-<h1 align="center">Hello Dude🙋🏻‍♀️Welcome to my Repo <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>
+ </a>
+</p>
+<div align="center">
+  <p align="center">
+<img src=https://i.imgur.com/ZzqO1v5.jpeg>
+</p>
+  <p align="center">
+<a href="https://github.com/cyberchekuthan"><img title="Author" src="https://img.shields.io/badge/Author-Kichu/Kichu244?color=blue&style=for-the-badge&logo=whatsapp"></a>
+</p>
+</div>
 <p align="center">
-
-## 📢Introduce myself
-
-- 🙂I'm Amal
-- 🚩I'm a beginner in this field
-- 📍From pathripala,palakkad,Kerala,🇮🇳
-- 🏫Students
-
-<div align="center">
-  <img src=http://telegra.ph/file/68809ff84d7cd4447a76e.jpg>
-
-## 📢 Guide
-Click WA logo to Join Support Group 👇👇
+Project created by <a href="https://github.com/Kichu244">Kichu244</a> to make it public
     <br>
-<br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/JyE9edUo3JUBa38nVTrfHc)
-  <div align="center">
-    <br>
-<br>
-       
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amal-dx&repo=DXTROX_V1&theme=nightowl)](https://github.com/amal-dx/DXTROX_V1)
-  </div>
-    
+       | Â© |
+        Reserved |
+    <br> 
+</p>
+
 ## Setup
-<div align="center">
+<div align="center"> 
+
+
+## Click Youtube logo to Watch full video and findout password in this video ðŸ‘‡
+
+ [![ANY DOUBT REFER IT](https://www.linkpicture.com/q/YouTube-Logo-700x394.png)](https://youtu.be/5MKycJxmA4c)
+
 
   ### Simple Method
   
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kichu244/Bot-Mwol2.git)
+
+
+
+  
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@amal-dx/WhiteDevil-1?v=1?v=1)
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/amal-dx/DXTROX_V1)
-     </div>
-<br>
-<br >
-If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
-```
-bash <(curl -L https://tinyurl.com/krzpy3rc)
-``` 
   
-### Amal-dx
-
-### Safwan Ganz
-
-### ⚠️ Warning! 
+### The Hard Method
+```js
+GET QR
+$ apt install git
+$ apt install nodejs --fix-missing
+$ git clone https://github.com/Kichu244/Bot-Mwol2
+$ cd Bot-Mwol2
+$ npm install @adiwajshing/baileys
+$ npm install chalk
+$ node julie.js
 ```
-Due to Userbot; Your WhatsApp account may be banned.
-This is an open source project, you are responsible for everything you do. 
-Absolutely, Asena executives do not accept responsibility.
-By establishing the Asena, you are deemed to have accepted these responsibilities.
+      
+```js
+SETUP
+$ git clone https://github.com/Kichu244/Bot-Mwol2
+$ cd Bot-Mwol2
+$ npm i
+$ node julie.js
 ```
 
+----
 
----------
-
-<a href="https://safwanganz-api.herokuapp.com"><img src="https://i.ibb.co/0s70fxc/OFC-20211106-131725.jpg" width="100" height="100"></a> | [![DXTROX](https://github.com/amal-dx.png?size=100)](https://github.com/amal-dx) | [![TERROR-BOY](https://github.com/terror-boy.png?size=100)](https://github.com/terror-boy) | [![SAFWAN-GANZ](https://github.com/SafwanGanz.png?size=100)](https://github.com/SafwanGanz) 
-----|----|----|----
-[ALIEN-ALFA](https://https://safwanganz-api.herokuapp.com) | [DXTROX](https://github.com/amal-dx) | [TERROR-BOY](https://github.com/terror-boy) | [SAFWAN-GANZ](https://github.com/SafwanGanz)
-Powered by ALIEN-ALFA | Author / Creator | Most Active Contributor | 2nd Most Active Contributor
-
-
-NOTE: This project will not maintained after `27 June 2021`, that means no update. Feel free to anyone to continue this project :)
-
-  
-  
+  <p align="center">
+  <a href="httsp://github.com/Amal-ser/Amalser">
     
+<a href="https://github.com/Amal-ser/followers">
+<img src="https://img.shields.io/github/repo-size/cyberchekuthan/Amalser_v2?color=green&label=Repo%20total%20size&style=plastic">
+<p align="center">
+<a href="https://github.com/Amal-ser/followers"
+<img title="Followers" src="https://img.shields.io/github/followers/Amal-ser?color=blue&style=flat-square"></a>
+<a href="https://github.com/Amal-ser/Amalser/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Amal-ser/Amalser?color=blue&style=flat-square"></a>
+<a href="https://github.com/Amal-ser/Amalser/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Amal-ser/Amalser?color=blue&style=flat-square"></a>
+<a href="https://github.com/Amal-ser/Amalser/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Amal-ser/Amalser?label=Watchers&color=blue&style=flat-square"></a>
+</p>
 
+## ðŸ“¢ Guide
+Click WA logo to Join Support Group ðŸ‘‡
+    <br>
+<br>
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/CbRlEux876XFsWQfIlOKty)
+  <div align="center">
+       
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kichu244&repo=Bot-Mwol2&theme=nightowl)](https://github.com/Kichu244/Bot-Mwol2)
+  </div>
+    
+### âš  Warning âš 
 
+```
+By using kick, add, promote, demote Commands, Your WhatsApp account may be banned.
+Bot-Mwol or we are not responsible for your account, 
+This bot is intended for the purpose of having fun with some fun commands 
+and group management with some helpfull commands.
 
+If  you ended up spamming groups, getting reported left and right, 
+and you ended up in being fight with WhatsApp
+and at the end WhatsApp Team deleted your account. DON'T BLAME US.
+
+No personal support will be provided / We won't spoon feed you. 
+
+#
