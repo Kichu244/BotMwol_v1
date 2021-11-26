@@ -29,7 +29,7 @@ Project created by <a href="https://github.com/Kichu244">Kichu244</a> to make it
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kichu244/Bot-Mwol2.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kichu244/BotMwol_v1.git)
 
 
 
