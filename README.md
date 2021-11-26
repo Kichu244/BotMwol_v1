@@ -41,8 +41,8 @@ Project created by <a href="https://github.com/Kichu244">Kichu244</a> to make it
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/Kichu244/Bot-Mwol2
-$ cd Bot-Mwol2
+$ git clone https://github.com/Kichu244/BotMwol_v1
+$ cd BotMwol_v1
 $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node julie.js
@@ -50,8 +50,8 @@ $ node julie.js
       
 ```js
 SETUP
-$ git clone https://github.com/Kichu244/Bot-Mwol2
-$ cd Bot-Mwol2
+$ git clone https://github.com/Kichu244/BotMwol_v1
+$ cd BotMwol_v1
 $ npm i
 $ node julie.js
 ```
@@ -78,7 +78,7 @@ Click WA logo to Join Support Group ðŸ‘‡
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/CbRlEux876XFsWQfIlOKty)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kichu244&repo=Bot-Mwol2&theme=nightowl)](https://github.com/Kichu244/Bot-Mwol2)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kichu244&repo=BotMwol_v1&theme=nightowl)](https://github.com/Kichu244/BotMwol_v1)
   </div>
     
 ### âš  Warning âš 
