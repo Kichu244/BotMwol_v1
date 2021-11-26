@@ -3,9 +3,9 @@
     "description": "BOTMWOL_V1 is the Modified Version of WhatsAsena,  .",
     "logo": "https://i.imgur.com/ZzqO1v5.jpg",
     "keywords": ["whatsapp", "userbot", "julie", "WhatsAsena", "mwol", "bot", "ai"],
-    "repository": "https://github.com/cyberchekuthan/Amalser_v2",
-    "website":   "https://github.com/farhan-dqz/Julie-Mwol",
-    "success_url": "https://github.com/farhan-dqz/Julie-Mwol",
+    "repository": "https://github.com/Kichu244/BotMwol_v1",
+    "website":   "https://github.com/Kichu244/BotMwol_v1",
+    "success_url": "https://github.com/Kichu244/BotMwol_v1",
     "stack": "container",
     "env": {
         "JULIE_SESSION": {
