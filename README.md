@@ -34,7 +34,7 @@ Project created by <a href="https://github.com/Kichu244">Kichu244</a> to make it
 
 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@amal-dx/WhiteDevil-1?v=1?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Kichu244/Amalser-2)
   
 ### The Hard Method
 ```js
